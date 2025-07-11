@@ -1,0 +1,191 @@
+:root {
+    --bs-font-sans-serif: "Montserrat", sans-serif;
+    --bs-my-color: #70727121; 
+    
+}
+
+.btn {
+    height: 64px;
+    width: 200px;
+    font-size: 32px;
+    background-color: rgba(128, 128, 128, 0.545);
+    font-weight: 600;
+}
+.m2{
+    background-color: #70727121;
+}
+
+#hero {
+    position: relative;
+    margin-bottom: 0px;
+}
+
+#over-text {
+    position: absolute;
+    font-weight: 600;
+    font-size: 32px;
+    color: white;
+    margin-top: -284px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+#over-text-alt {
+    position: absolute;
+    font-weight: 600;
+    font-size: 24px;
+    color: white;
+    margin-top: -284px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+    
+
+
+
+.nav-link{
+    font-size: 12px;
+    font-weight: 500;
+    color: black;
+}
+
+.nav-link:hover{
+    background-color: rgba(0, 0, 0, 0.286);
+    border: 0px ;
+
+}
+#int {
+    padding: 72px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content: center;
+}
+
+.card {
+    border-radius: 0px;
+    border: 0px;
+}
+
+.card-title {
+    font-size: 16px;
+    line-height: 12px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-style: bold;
+    margin: 8px auto;
+}
+.main-card1{
+    align-items: end;
+}
+.main-card2{
+    align-items: center;
+    margin-left: 12px;
+}
+.main-card-title{
+    font-size: 32px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.card-text {
+    font-size: 14px;
+    margin: 24px auto;
+    color: rgba(4, 4, 4, 0.881);
+
+}
+
+.card-img-top {
+    border-radius: 0px;
+}
+
+.explore {
+    margin: 20px 0px;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    border: 2px solid auto;
+    padding: 10px 20px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 24px;
+    letter-spacing: 2px;
+}
+
+
+a:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    text-decoration: none;
+}
+
+
+
+.byo {
+    background-color: auto;
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+}
+.carousel-caption{
+    color: lavender  ;
+    font-family: "Montserrat",sans-serif ;
+}
+.carousel-item a{
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    border: 2px solid auto;
+    padding: 8px 16px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 2px;
+}
+.carousel-item a:hover {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    text-decoration: none;
+}
+.carousel-control-prev{
+    border: 1px solid black;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    font-size:24px;
+}
+.carousel-control-prev-icon{
+    color: black;
+    font-weight: 700;
+    font-size:24px;
+}
+.carousel-control-next{
+    border: 1px solid black;
+    color: black;
+    font-weight: 700;
+    text-decoration: none   ;
+    font-size:24px;
+}
+.carousel-control-next-icon{
+    color: black;
+    font-weight: 700;
+    font-size:24px;
+}
+#rl a:hover{
+    background-color: black;
+    color: white;
+    
+}
+.foot-head{
+    font-size: 12px;
+    font-weight: 500;
+}
+.foot-head ul li a{
+    font-size: 10px;
+}
+
